@@ -2,7 +2,7 @@
 
 Plain-language documents for anyone who wants to understand what Landos is building and why. No technical knowledge required.
 
-**Join the conversation:** [groups.google.com/g/landos](https://groups.google.com/g/landos)
+**Join the conversation:** [discord.gg/DBNpwm7MjW](https://discord.gg/DBNpwm7MjW)
 
 ---
 
