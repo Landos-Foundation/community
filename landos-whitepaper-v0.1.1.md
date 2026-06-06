@@ -39,13 +39,25 @@ The consequences extend beyond insecurity. In 2000, economist Hernando de Soto e
 
 **The compound problem: land is both insecure and economically dead for the people who need it most.**
 
-### 1.2 The Opportunity
+### 1.2 The Three Pillars
 
-Bitcoin proved in 2009 that a monetary record could exist outside of government and institutional control — permanent, incorruptible, verifiable by anyone [2]. Satoshi Nakamoto's insight was that distributed consensus among independent participants could replace institutional trust entirely.
+Landos is built on three pillars. Each one is necessary. None is sufficient alone.
 
-De Soto proved through decades of fieldwork that the act of formalizing ownership — creating a recognized, legible record — converts dead capital into live capital. The record itself is the economic transformation [1].
+**Pillar 1 — People First**
 
-Landos applies both insights to land. A sovereign, decentralized blockchain makes it possible for people to register land ownership without institutional permission. Community validation — encoding the social knowledge that communities already hold — makes those registrations verifiable and trustworthy. And the resulting record, permanently anchored to Bitcoin and accessible to global capital markets, transforms dead land into live economic capital.
+Every decision in Landos begins with one question: does this work for the person with the least power, the least technology, and the least resources? Not the developer. Not the investor. Not the institution. The farmer in rural Ghana. The woman in the informal settlement. The indigenous community whose land has never appeared on any map.
+
+Technology is only as good as the people it reaches. A system that works perfectly for everyone except the people it was built for has failed. Landos is designed to meet people where they are — in their language, at their technical level, through relationships they already have. A grandmother who can answer "do you know your neighbor?" can use Landos. Everything else is built around that constraint.
+
+People First is not a feature. It is the reason the other two pillars exist.
+
+**Pillar 2 — Hernando de Soto and Unlocking Land**
+
+De Soto proved through decades of fieldwork that the act of formalizing ownership — creating a recognized, legible record — converts dead capital into live capital [1]. The record itself is the economic transformation. Landos is the mechanism de Soto never had: a way to create that formal record without going through the corrupt institutions that caused the problem in the first place.
+
+**Pillar 3 — Bitcoin and the Security of the Blockchain**
+
+Bitcoin proved in 2009 that a record could exist outside of government and institutional control — permanent, incorruptible, verifiable by anyone [2]. Satoshi Nakamoto's insight was that distributed consensus among independent participants could replace institutional trust entirely. Landos applies this sovereignty principle to land. A land record on Landos is secured the same way a Bitcoin transaction is secured — by cryptography, by distributed nodes, and by the impossibility of altering a record that thousands of computers around the world hold simultaneously.
 
 ### 1.3 Design Philosophy
 
