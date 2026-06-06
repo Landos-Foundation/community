@@ -8,7 +8,7 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 ## Whitepaper
 
-- [Landos Whitepaper v0.1.0](landos-whitepaper-v0.1.0.md) — The full technical and philosophical design of the Landos protocol. Start here if you want the complete picture.
+- [Landos Whitepaper v0.1.1](landos-whitepaper-v0.1.1.md) — The full technical and philosophical design of the Landos protocol. Start here if you want the complete picture.
 
 ---
 
