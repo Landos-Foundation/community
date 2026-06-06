@@ -28,8 +28,9 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 ## The Foundations
 
-- [Bitcoin: A Pillar of Landos](bitcoin-a-pillar-of-landos.md) — What Bitcoin proved about records without institutions, and why it is Landos's trust anchor.
+- [People First: A Pillar of Landos](people-first-a-pillar-of-landos.md) — Why every decision in Landos begins with the person with the least power, the least technology, and the least resources.
 - [Hernando de Soto: A Pillar of Landos](hernando-de-soto-a-pillar-of-landos.md) — The economist who proved that the absence of land records traps people in poverty — and why his diagnosis is at the heart of Landos.
+- [Bitcoin: A Pillar of Landos](bitcoin-a-pillar-of-landos.md) — What Bitcoin proved about records without institutions, and why it is Landos's trust anchor.
 
 ---
 
