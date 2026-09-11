@@ -6,4 +6,4 @@ This is a stand-in for real membership criteria, which is still open — see [Op
 
 | GitHub handle | Added by | Date added |
 |---|---|---|
-| brockhager | Brock | 09-11-2026 |
+| [brockhager](https://github.com/brockhager) | Brock | 2026-09-11 |
