@@ -42,6 +42,13 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 ---
 
+## Governance
+
+- [Provisional Governance](governance/README.md) — How members propose and vote on decisions before the real on-chain governance exists.
+- [How Decisions Get Made (For Now)](governance/instructions.md) — Plain-language, step-by-step version. Start here if you're not technical.
+
+---
+
 ## User Perspective
 
 - [The Woman With Land](landos-user-perspective-v0.1.0.md) — The seven questions a real landowner would ask before trusting this system — and honest answers to each one.
