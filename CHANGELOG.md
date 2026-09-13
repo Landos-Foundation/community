@@ -18,4 +18,8 @@ Version history for `spec/design/landos-design-vX.X.X.md`. Maintained separately
 
 ---
 
+**Correction (2026-09-13):** The v0.1.6 entry above states Neighbor Quorum was set to "2-of-3 universal." That change was never actually made to the design doc text — every version through v0.1.9 has retained the original 3-of-5 default (Section 11.2). Confirmed 2026-09-13: Neighbor Quorum stays at 3-of-5 for now. See `OPEN-QUESTIONS.md` for the full note.
+
+---
+
 *Each version's full content is preserved in `spec/design/` (e.g., `landos-design-v0.1.7.md`, `landos-design-v0.1.8.md`). This table summarizes what changed between versions.*

@@ -2,7 +2,7 @@
 
 Anyone listed here can open proposals and cast votes under the [provisional governance process](README.md).
 
-This is a stand-in for real membership criteria, which is still open — see [Open Questions #12](../OPEN-QUESTIONS.md).
+This is a stand-in for real membership criteria, which is still open — see [Open Questions #11](../OPEN-QUESTIONS.md).
 
 | GitHub handle | Added by | Date added |
 |---|---|---|

@@ -2,7 +2,7 @@
 
 Landos's real governance — the bicameral Token Holder Assembly + Community Hub Assembly, with quadratic voting and a 2/3 supermajority — only makes sense once there's a real token distribution and real Community Hubs. Until the chain exists, this is how members participate in decisions and how those decisions get recorded.
 
-This process is deliberately temporary. It ends the moment on-chain governance activates (see design doc Section 18.2). Nothing here should be assumed to carry forward in its current form — see [Open Questions #12](../OPEN-QUESTIONS.md) for what's still unresolved about it.
+This process is deliberately temporary. It ends the moment on-chain governance activates (see design doc Section 18.2). Nothing here should be assumed to carry forward in its current form — see [Open Questions #11](../OPEN-QUESTIONS.md) for what's still unresolved about it.
 
 New to this or not technical? Read [instructions.md](instructions.md) instead — plain-language, step by step.
 
