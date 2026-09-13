@@ -72,4 +72,4 @@ With respect,
 
 ---
 
-*Landos is a decentralized land ownership system. No network exists yet — we are in active development. This letter is an introduction, not a launch announcement. To learn more, visit our community repository at github.com/The-Fun-Organization/community*
+*Landos is a decentralized land ownership system. No network exists yet — we are in active development. This letter is an introduction, not a launch announcement. To learn more, visit our community repository at github.com/Landos-Foundation/community*
