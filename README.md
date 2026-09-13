@@ -6,6 +6,12 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 ---
 
+## Roadmap
+
+- [Project Phases](docs/phases/README.md) — Where Landos is right now, and what has to happen before it, in order.
+
+---
+
 ## Whitepaper
 
 - [Landos Whitepaper v0.1.2](whitepaper/landos-whitepaper-v0.1.2.md) — The full technical and philosophical design of the Landos protocol. Start here if you want the complete picture.
