@@ -94,4 +94,20 @@ If you want to follow along, contribute ideas, or help build it — you are in t
 
 ---
 
+## Keep Reading
+
+- [The Problem With Land Registries](the-problem-with-land-registries.md) — Why existing land registries fail the people who need them most, and the scale of the problem worldwide.
+- [The People Landos Exists For](the-people-landos-exists-for.md) — The farmer, the woman in the informal settlement, the indigenous community. Who this is actually built for.
+- [People First: A Pillar of Landos](people-first-a-pillar-of-landos.md) — Why every decision in Landos begins with the person with the least power, the least technology, and the least resources.
+- [What Happens When You Register](what-happens-when-you-register.md) — A step-by-step walkthrough of what registering land on Landos actually looks like.
+- [How Your Neighbors Protect Your Land](how-your-neighbors-protect-your-land.md) — Why community knowledge is a form of proof, and how it is encoded into the protocol.
+- [What Is a Land Witness?](land-witness.md) — The neutral third party who can certify a claim when no neighbors are available to vouch for it.
+- [Project Phases](phases/README.md) — Where Landos is right now, and what has to happen before it, in order.
+- [Paper Testnet](../testnet/README.md) — Try out a practice land claim by hand, following the real design rules before the real chain exists.
+- [Provisional Governance](../governance/README.md) — How members propose and vote on decisions before the real on-chain governance exists.
+- [Full Whitepaper](../whitepaper/landos-whitepaper-v0.1.2.md) — The complete technical and philosophical design of the Landos protocol.
+- [Landos Community — full index](../README.md) — Every document in one place.
+
+---
+
 *This document is part of the Landos community repository — plain-language writing for anyone who wants to understand what we are building and why.*
