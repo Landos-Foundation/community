@@ -18,8 +18,8 @@ Even once building starts in later phases, parameters get tuned, gaps get found,
 
 ## Where to look
 
-- [`spec/design/`](../../../spec/design/) — the versioned design document
-- [`community/whitepaper/`](../whitepaper/) — the whitepaper
+- `spec/design/` — the versioned design document. This folder lives outside the `community` repo (a sibling folder locally), so it isn't linked here — ask Brock if you need direct access.
+- [`community/whitepaper/`](../../whitepaper/) — the whitepaper
 - [`community/OPEN-QUESTIONS.md`](../../OPEN-QUESTIONS.md) — resolved decisions and what's still open
 - [`community/CHANGELOG.md`](../../CHANGELOG.md) — version history of the design doc
 
