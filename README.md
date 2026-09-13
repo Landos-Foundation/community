@@ -47,6 +47,7 @@ Plain-language documents for anyone who wants to understand what Landos is build
 Plain-language explanations of individual mechanisms in the protocol, for anyone who wants to go deeper on one specific piece. This section grows as more concepts get written up.
 
 - [What Is a Land Witness?](docs/land-witness.md) — The neutral third party who can certify a claim when no neighbors are available to vouch for it, and why that isn't a backdoor.
+- [What Happens to Land in a War Zone?](docs/disputed-territories.md) — How Landos freezes existing claims and blocks new ones from taking hold when a region becomes a conflict zone, so instability can't be used to steal land.
 
 ---
 
@@ -54,6 +55,13 @@ Plain-language explanations of individual mechanisms in the protocol, for anyone
 
 - [Provisional Governance](governance/README.md) — How members propose and vote on decisions before the real on-chain governance exists.
 - [How Decisions Get Made (For Now)](governance/instructions.md) — Plain-language, step-by-step version. Start here if you're not technical.
+
+---
+
+## Paper Testnet
+
+- [Paper Testnet](testnet/README.md) — Try out a practice land claim by hand, on GitHub, following the real design rules before the real chain exists.
+- [Trying Out a Land Claim (For Now)](testnet/instructions.md) — Plain-language, step-by-step version. Start here if you're not technical.
 
 ---
 
