@@ -1,8 +1,10 @@
 # Landos Community
 
-Plain-language documents for anyone who wants to understand what Landos is building and why. No technical knowledge required.
+Plain-language writing for anyone who wants to understand what Landos is building and why. No technical knowledge required.
 
 **Join the conversation:** [discord.gg/DBNpwm7MjW](https://discord.gg/DBNpwm7MjW)
+
+The plain-language essays that used to live in `docs/` now live permanently on the **[Landos Wiki](https://github.com/Landos-Foundation/community/wiki)** — linked below. This repo stays the home for everything with a governance or process mechanic behind it: the roadmap, the whitepaper, provisional governance, and the paper testnet.
 
 ---
 
@@ -20,31 +22,31 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 ## Start Here
 
-- [What is Landos?](docs/what-is-landos.md) — The problem Landos solves and the idea behind it. Start here if you're new to the project.
+- [What is Landos?](https://github.com/Landos-Foundation/community/wiki/What-is-Landos) — The problem Landos solves and the idea behind it. Start here if you're new to the project.
 
 ---
 
 ## The Problem
 
-- [The Problem With Land Registries](docs/the-problem-with-land-registries.md) — Why existing land registries fail the people who need them most, and the scale of the problem worldwide.
-- [The People Landos Exists For](docs/the-people-landos-exists-for.md) — The farmer, the woman in the informal settlement, the indigenous community. Who this is actually built for.
-- [Why Every Land Project Before Landos Failed](docs/why-every-land-project-failed.md) — Honduras, Georgia, Sweden, Ghana, the World Bank. What they tried, why they failed, and what Landos does differently.
+- [The Problem With Land Registries](https://github.com/Landos-Foundation/community/wiki/The-Problem-with-Land-Registries) — Why existing land registries fail the people who need them most, and the scale of the problem worldwide.
+- [The People Landos Exists For](https://github.com/Landos-Foundation/community/wiki/The-People-Landos-Exists-For) — The farmer, the woman in the informal settlement, the indigenous community. Who this is actually built for.
+- [Why Every Land Project Before Landos Failed](https://github.com/Landos-Foundation/community/wiki/Why-Every-Land-Project-Failed) — Honduras, Georgia, Sweden, Ghana, the World Bank. What they tried, why they failed, and what Landos does differently.
 
 ---
 
 ## The Foundations
 
-- [People First: A Pillar of Landos](docs/people-first-a-pillar-of-landos.md) — Why every decision in Landos begins with the person with the least power, the least technology, and the least resources.
-- [Hernando de Soto: A Pillar of Landos](docs/hernando-de-soto-a-pillar-of-landos.md) — The economist who proved that the absence of land records traps people in poverty — and why his diagnosis is at the heart of Landos.
-- [Bitcoin: A Pillar of Landos](docs/bitcoin-a-pillar-of-landos.md) — What Bitcoin proved about records without institutions, and why it is Landos's trust anchor.
+- [People First: A Pillar of Landos](https://github.com/Landos-Foundation/community/wiki/People-First-a-Pillar-of-Landos) — Why every decision in Landos begins with the person with the least power, the least technology, and the least resources.
+- [Hernando de Soto: A Pillar of Landos](https://github.com/Landos-Foundation/community/wiki/Hernando-de-Soto-a-Pillar-of-Landos) — The economist who proved that the absence of land records traps people in poverty — and why his diagnosis is at the heart of Landos.
+- [Bitcoin: A Pillar of Landos](https://github.com/Landos-Foundation/community/wiki/Bitcoin-a-Pillar-of-Landos) — What Bitcoin proved about records without institutions, and why it is Landos's trust anchor.
 
 ---
 
 ## How It Works
 
-- [What Happens When You Register](docs/what-happens-when-you-register.md) — A step-by-step walkthrough of what registering land on Landos actually looks like.
-- [How Your Neighbors Protect Your Land](docs/how-your-neighbors-protect-your-land.md) — Why community knowledge is a form of proof, and how it is encoded into the protocol.
-- [Why No One Controls Landos](docs/why-no-one-controls-landos.md) — How the system is designed so that no government, company, or individual can alter or shut it down.
+- [What Happens When You Register](https://github.com/Landos-Foundation/community/wiki/What-Happens-When-You-Register) — A step-by-step walkthrough of what registering land on Landos actually looks like.
+- [How Your Neighbors Protect Your Land](https://github.com/Landos-Foundation/community/wiki/How-Your-Neighbors-Protect-Your-Land) — Why community knowledge is a form of proof, and how it is encoded into the protocol.
+- [Why No One Controls Landos](https://github.com/Landos-Foundation/community/wiki/Why-No-One-Controls-Landos) — How the system is designed so that no government, company, or individual can alter or shut it down.
 
 ---
 
@@ -52,8 +54,8 @@ Plain-language documents for anyone who wants to understand what Landos is build
 
 Plain-language explanations of individual mechanisms in the protocol, for anyone who wants to go deeper on one specific piece. This section grows as more concepts get written up.
 
-- [What Is a Land Witness?](docs/land-witness.md) — The neutral third party who can certify a claim when no neighbors are available to vouch for it, and why that isn't a backdoor.
-- [What Happens to Land in a War Zone?](docs/disputed-territories.md) — How Landos freezes existing claims and blocks new ones from taking hold when a region becomes a conflict zone, so instability can't be used to steal land.
+- [What Is a Land Witness?](https://github.com/Landos-Foundation/community/wiki/Land-Witness) — The neutral third party who can certify a claim when no neighbors are available to vouch for it, and why that isn't a backdoor.
+- [What Happens to Land in a War Zone?](https://github.com/Landos-Foundation/community/wiki/Disputed-Territories) — How Landos freezes existing claims and blocks new ones from taking hold when a region becomes a conflict zone, so instability can't be used to steal land.
 
 ---
 
@@ -73,7 +75,13 @@ Plain-language explanations of individual mechanisms in the protocol, for anyone
 
 ## User Perspective
 
-- [The Woman With Land](docs/landos-user-perspective-v0.1.0.md) — The seven questions a real landowner would ask before trusting this system — and honest answers to each one.
+- [The Woman With Land](https://github.com/Landos-Foundation/community/wiki/The-Woman-With-Land) — The seven questions a real landowner would ask before trusting this system — and honest answers to each one.
+
+---
+
+## Letters
+
+- [A Letter to the People of Ghana](https://github.com/Landos-Foundation/community/wiki/Letter-to-Ghana) — Why Ghana matters to what we're building, and what we're asking of the people there.
 
 ---
 

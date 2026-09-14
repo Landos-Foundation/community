@@ -9,7 +9,7 @@ Figuring out what Landos actually is before committing any of it to code.
 - The design document — currently `landos-design-v0.1.10.md` in `spec/design/`, the technical source of truth for every decision made so far.
 - The whitepaper — `landos-whitepaper-v0.1.2.md` in `community/whitepaper/`, the same design written for a broader audience.
 - The philosophical foundations — the three pillars (People First, Hernando de Soto, Bitcoin) and the principles that shape every other decision.
-- The plain-language community docs — everything in `community/docs/` explaining individual concepts (Land Witness, Disputed Territories, and others) to non-technical readers.
+- The plain-language essays — permanently hosted on the [Landos Wiki](https://github.com/Landos-Foundation/community/wiki), explaining individual concepts (Land Witness, Disputed Territories, and others) to non-technical readers.
 - Standards alignment work (LADM, STDM, Fit-For-Purpose, VGGT) — checking the design against how the rest of the world thinks about land administration.
 
 ## Why this phase doesn't really end
@@ -20,6 +20,7 @@ Even once building starts in later phases, parameters get tuned, gaps get found,
 
 - `spec/design/` — the versioned design document. This folder lives outside the `community` repo (a sibling folder locally), so it isn't linked here — ask Brock if you need direct access.
 - [`community/whitepaper/`](../../whitepaper/) — the whitepaper
+- [Landos Wiki](https://github.com/Landos-Foundation/community/wiki) — the plain-language essays
 - [`community/OPEN-QUESTIONS.md`](../../OPEN-QUESTIONS.md) — resolved decisions and what's still open
 - [`community/CHANGELOG.md`](../../CHANGELOG.md) — version history of the design doc
 
